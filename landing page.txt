@@ -1,0 +1,189 @@
+<!DOCTYPE html>
+<HTML lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="index.css">
+    <title>Landing Page</title>
+</head>
+<style>
+    background-image :url("C:\Users\Riya\Downloads\depositphotos_70298385-stock-photo-deep-space.jpg")
+</style>
+
+<body>
+    <nav>
+        <div class="heading">online courses </div>
+        <span class="sideMenuButton" onclick="openNavbar()">
+        </span>
+
+        <div class="navbar">
+            <ul>
+                <li><a href="#Home">Home</a></li>
+                <li><a href="#">About</a></li>
+                <li><a href="#">Sign Up</a></li>
+            </ul>
+        </div>
+    </nav>
+
+    <!-- Side navigation bar for 
+        responsive website -->
+    <div class="sideNavigationBar" id="sideNavigationBar">
+        <a href="#" class="closeButton" onclick="closeNavbar()">
+        </a>
+        <a href="#">Home</a>
+        <a href="#">About</a>
+        <a href="#">Sign Up</a>
+    </div>
+    b
+    <!-- Content -->
+    <div class="line" id="Home">
+        <div class="side1">
+            <h1>landing page sample</h1>
+            <button>
+                </a>
+            </button>
+        </div>
+        <div class="side2">
+            <img src="C:\Users\Riya\Downloads\images (1).jpg">
+        </div>
+    </div>
+
+    <section class="about" id="My Projects">
+        <div class="content">
+            <div class="title">
+                <span>Courses</span>
+            </div>
+            <div class="boxes">
+                <div class="box">
+                    <div class="topic">
+                        <a href="" target="_blank">
+                            <h3>DSA</h3>
+                        </a>
+                    </div>
+                    <p>
+                        The term DSA stands for Data Structures and Algorithms. As the name itself suggests, it is a combination of two separate yet interrelated topics.The Data Structures and Algorithms Course is intended for individuals with an interest in software engineering
+                        who wish to advance their careers by landing an interview with one of the most prestigious firms in the world. So that you are ready for these important interviews, this program will teach you everything from problem-solving techniques
+                        to coding. Get hands-on practice by solving 100+ data structures and algorithms problems. You will begin the course by learning to solve problems related to each data structure and algorithm. Prepare for the top product-based companies
+                        like Meta, Microsoft, Amazon, Adobe, Netflix and Google.
+
+                        <h2> DSA Course objectives</h2>
+                        Participants in this training will learn data structures and algorithms and at the completion of this course, attendees will be able to: Identify techniques to design algorithms and measure their efficiency. Sort data by using bubble sort, selection sort,
+                        insertion sort, shell sort, quick sort, and merge sort. Search data by using linear search and binary search techniques. Store and search data using hashing. Solve problems using arrays, lists, linked lists, queues, and stacks.
+                        Solve problems using non-leaner data structures like trees, and graphs. Outcomes of the Training Knowledge of implementing backtracking and dynamic programming Understanding of hash function applications Potential Career Boost
+                        in the Technical World Gain a competitive edge over other candidates Personalized Career Coaching and Goal Setting Guaranteed salary hike of 40-60% Why Learn Data Structures and Algorithms in 2024? DSA is a fundamental skill for
+                        careers in software development, data science, Machine learning, and many more. These stats back the statement. Strong Foundation for Programming: DSA is the bedrock of computer science. Understanding how data is organized (data
+                        structures) and manipulated (algorithms) empowers you to solve problems efficiently. Problem-Solving Prowess: Learning DSA equips you with a systematic approach to problem-solving. Benefits Across Programming Domains: Whether you're
+                        developing web applications, mobile apps, machine learning models, or data analysis tools, a strong understanding of DSA is beneficial. Interview Preparation: Many tech companies, including top-tier tech giants, continue to prioritize
+                        data structures and algorithms in their technical interviews. Career Advancement: Proficiency in DSA is highly valued in the tech industry and can lead to career advancement opportunities in software engineering, data science,
+                        system architecture, technical leadership, and more. Adaptability in a Changing Landscape: The programming landscape constantly evolves, but the core principles of DSA remain relevant allowing you to adapt and learn new programming
+                        languages more easily.
+
+
+                    </p>
+                </div>
+                <div class="box">
+
+                    <div class="topic">
+                        <a href="" target="_blank">
+                            <h3>HTML</h3>
+                        </a>
+                    </div>
+                    <p>
+                        HTML stands for HyperText Markup Language. It is used to design web pages using the markup language.Introduction to HTML Complete Beginner to Expert Course is perfect for anyone who wants to learn HTML or learn more about HTML. HTML provides the structure
+                        for EVERY WEBSITE and its the foundation for everything you see on the web. Browsers read HTML and render it out for web users. If you are looking for a starting point to create digital content this course is for you!!!! In this
+                        course you will learn everything you need to know about HTML, and HTML5. It’s packed full of challenges and exercises to get you writing HTML quickly. As you follow the lessons source code is also included to get you started quickly
+                        and easily. The course will provide you everything you need to get started with HTML and challenge you to learn HTML. Core focus of this course is just HTML, learn to code HTML in just a few hours. You will be amazed at how easily
+                        you will be able to write your own HTML. Straight to the point lessons with no wasted time, watch and learn. Then practice what you learned to effectively learn HTML. Hands on practice with a fast paced easy to follow lesson plan.
+                        By the end of the course you will have the skills and knowledge to write your own HTML, and will be on the path for more advanced web development skills. Course covers everything you need to know about
+                        <h2>HTML WHAT YOU WILL LEARN</h2>
+                        Basic syntax - all the common tags used to develop web content How and where you can write HTML - top resources and links included Learn about HTML structure within web pages Explore HTML5 semantic elements Build your own HTML template Create HTML lists,
+                        hyperlinks, and add images Build tables for even more HTML structure Create Forms with in depth form examples and HTML tag explanations Add iframes and more cool HTML elements Create your own mini HTML site using only HTML All
+                        this and more. BONUS CONTENT INCLUDED!!!! Source Code is included Multiple exercises and sample code Free ebook of lessons explained Top links and resources to learn even more in depth about HTML Taught by an instructor with over
+                        20 years of web development experience, ready to help you learn and answer any questions you may have. What are you waiting for this course is the most complete course for learning HTML, you have nothing to lose. Who this course
+                        is for: Beginners and anyone who wants to learn HTML5 Anyone who wants to increase their HTML skills Complete beginners People who want to become web developers
+                    </p>
+                </div>
+
+                <div class="box">
+                    <div class="topic">
+                        <a href="" target="_blank">
+                            <h3>Javascript</h3>
+                        </a>
+                    </div>
+                    <p>
+                        JavaScript (JS) is the most popular lightweight, interpreted compiled programming language.JavaScript is a scripting language that is used to create and manage dynamic web pages, basically anything that moves on your screen without requiring you to refresh
+                        your browser. It can be anything from animated graphics to an automatically generated Facebook timeline. js When most people get interested in web development, they start with good old HTML and CSS. From there, they move on to
+                        JavaScript, which makes sense, because, these three elements together form the backbone of web development. HTML is the structure of your page like the headers, the body text, any images you want to include. It basically defines
+                        the contents of a web page. CSS controls how that page looks (it’s what you’ll use to customize fonts, background colors, etc.). JavaScript is the third element. Once you’ve created your structure (HTML) and your aesthetic vibe
+                        (CSS), JavaScript makes your site dynamic (automatically updateable). Why JavaScript? JavaScript is an essential programming language, almost compulsory to learn for students or software developers that are gravitated towards web
+                        development. Wondering why? Here’s the answer: Javascript is the most popular programming language in the world and that makes it a default choice for web development. There are many frameworks available which you can use to create
+                        web applications once you have learned JavaScript. JavaScript offers lots of flexibility. You can create stunning and fast web applications with tons of customizations to provide users with the most relevant graphical user interface.
+                        JavaScript is now also used in mobile app development, desktop app development, and game development. This opens many possibilities for you as a Javascript developer. Due to the high demand in the industry, there are tons of job
+                        growth opportunities and high pay for those who know JavaScript. The incredible thing about Javascript is that you can find tons of frameworks and libraries already developed, which can be used directly in web development. That
+                        reduces the development time and enhances the graphical user interface. What is JavaScript Used For? JavaScript is used in various fields from the web to servers, and here’s a quick list of the significant areas it’s used in:
+
+
+                    </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section class="contact" id="contact">
+        <div class="content">
+            <div class="title"><span>Sign Up</span></div>
+            <div class="contactMenu">
+                <div class="input1">
+                    <div class="label1">Your Name</div>
+                    <div class="input2">
+                        <input type="text" placeholder="Enter your Name here">
+                    </div>
+                    <div class="label1">
+                        <label>Your Email</label>
+                    </div>
+                    <div class="input2">
+                        <input type="text" placeholder="Enter your Email here">
+                    </div>
+                    <div class="label1">
+                        <label>Your Password</label>
+                    </div>
+                    <div class="input2">
+                        <input type="text" placeholder="Enter your Password here">
+                    </div>
+                    <div class="button">
+                        <button>Sign Up</button>
+                    </div>
+                </div>
+                <div class="input3">
+                    <div class="rightside1">
+                        <div class="title1">
+                            <span>
+                               <h2> Contact Us</h2>
+                            </span>
+                        </div>
+                        <div class="content1">
+                            A-43, 9th Floor,Corporate Tower, Sector-116, Noida, Uttar Pradesh - 20130598
+                        </div>
+                        <div class="title1">
+                            <span>More Information</span>
+                        </div>
+                        <div class="content1">
+                            <h3> Greetings to all the members out there! We welcome you to the platform where we consistently strive to offer the best of education. This platform has been designed for every geek wishing to expand their knowledge, share their
+                                knowledge and is ready to grab their dream job. We have millions of articles, live as well as online courses, thousands of tutorials and much more just for the joy inside you.Thank you for choosing and supporting us!</h3>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Footer section -->
+    <footer>
+        <div class="footer">
+        </div>
+    </footer>
+    <script src="index.js"></script>
+</body>
+
+</html>
