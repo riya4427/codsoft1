@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Create Quiz</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <header>
+        <h1>Create a New Quiz</h1>
+    </header>
+    <main>
+        <form id="quiz-form">
+            <label for="quiz-title">Quiz Title:</label>
+            <input type="text" id="quiz-title" name="title" required>
+            
+            <div id="questions-container">
+                <!-- JavaScript will dynamically add question inputs here -->
+            </div>
+            
+            <button type="button" onclick="addQuestion()">Add Question</button>
+            <button type="submit">Save Quiz</button>
+        </form>
+    </main>
+    <footer>
+        <p>&copy; 2024 Quiz App</p>
+    </footer>
+    <script src="js/quiz-creation.js"></script>
+</body>
+</html>
